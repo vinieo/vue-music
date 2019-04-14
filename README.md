@@ -2,7 +2,7 @@
 
 > 音乐播放器
 
-![img](https://github.com/vinieo/vue-music/GIF.gif)
+![img](https://github.com/vinieo/vue-music/blob/master/GIF.gif)
 
 ## Build Setup
 
