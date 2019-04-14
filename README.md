@@ -2,6 +2,8 @@
 
 > 音乐播放器
 
+![img](https://github.com/vinieo/vue-music/GIF.gif)
+
 ## Build Setup
 
 ``` bash
